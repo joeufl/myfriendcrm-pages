@@ -1,0 +1,6 @@
+title: MyFriendCRM
+theme: minima
+header_pages:
+  - index.md
+  - support.md
+  - privacy.md
