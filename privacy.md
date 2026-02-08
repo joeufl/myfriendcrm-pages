@@ -8,11 +8,10 @@ title: Privacy Policy
 Effective date: February 8, 2026
 
 MyFriendCRM is a private personal relationship memory app.
-The app does not collect, transmit, or share personal data.
 
 ## Data Storage
-All data is stored locally on your device.
-No external servers are used.
+All data you enter into MyFriendCRM (including people, gifts, interactions, and preferences) is stored locally on your device.
+MyFriendCRM does not transmit your data to any external servers.
 
 ## Data Collection
 MyFriendCRM is designed to respect your privacy. This app does not collect, transmit, or share personal data.
@@ -22,11 +21,6 @@ The app does not use:
 - Advertising frameworks
 - Tracking technologies
 - Third-party SDKs
-​
-## Data Storage
-All data you enter into MyFriendCRM (including people, gifts, interactions, and preferences) is stored locally on your device.
-
-MyFriendCRM does not transmit your data to any external servers.
 
 ## Data Sharing
 MyFriendCRM does not share data with third parties.
