@@ -37,5 +37,4 @@ Deleting the app removes all locally stored data from your device.
 ​Changes to This PolicyThis privacy policy may be updated if app functionality changes. Any updates will be reflected with a revised effective date.
 
 ## Contact
-If you have questions about this privacy policy, you may contact the developer at:
-Email: joe@joeuong.com
+If you have questions about this privacy policy, you may contact the developer at joe@joeuong.com
