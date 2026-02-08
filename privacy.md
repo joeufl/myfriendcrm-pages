@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Privacy
 ---
 
 [Home](/myfriendcrm-pages/) • [Support](/myfriendcrm-pages/support) • [Privacy](/myfriendcrm-pages/privacy)
