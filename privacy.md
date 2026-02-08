@@ -3,10 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-[Home](/myfriendcrm-pages/) • [Support](/myfriendcrm-pages/support) • [Privacy](/myfriendcrm-pages/privacy)
-
----
-
 # MyFriendCRM Privacy Policy
 
 Effective date: February 8, 2026
