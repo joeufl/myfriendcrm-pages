@@ -3,10 +3,6 @@ layout: page
 title: Support
 ---
 
-[Home](/myfriendcrm-pages/) • [Support](/myfriendcrm-pages/support) • [Privacy](/myfriendcrm-pages/privacy)
-
----
-
 ## MyFriendCRM Support
 
 MyFriendCRM is a private personal app for tracking meaningful moments, preferences, and gifts in your relationships
