@@ -1,3 +1,6 @@
-[Home](/myfriendcrm-pages/) • [Support](/myfriendcrm-pages/support) • [Privacy](/myfriendcrm-pages/privacy)
-
 ---
+layout: page
+title: Home
+---
+
+Welcome to MyFriendCRM.
