@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy
+title: Privacy Policy
 ---
 
 [Home](/myfriendcrm-pages/) • [Support](/myfriendcrm-pages/support) • [Privacy](/myfriendcrm-pages/privacy)
