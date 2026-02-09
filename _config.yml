@@ -4,3 +4,5 @@ header_pages:
   - index.md
   - support.md
   - privacy.md
+  - roadmap.md
+  - release-notes.md
