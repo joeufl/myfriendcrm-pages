@@ -11,7 +11,7 @@ The app stores data locally on your device and does not collect or share persona
 ## Need help?
 If you have questions, encounter a bug, or need support, please contact:
 
-Email: joe@joeuong.com
+Email: [joe@joeuong.com](mailto:joe@joeuong.com?subject=MyFriendCRM%20App%20Support)
 
 ## Privacy
 View the [Privacy Policy](/privacy.md)
